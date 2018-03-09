@@ -26,8 +26,8 @@ ms.lasthandoff: 01/30/2018
 | name | 説明 |
 |:--------------|:------------------|
 | [AspNet.Security.OpenIdConnect.Server (ASOS)](https://github.com/aspnet-contrib/AspNet.Security.OpenIdConnect.Server) | ASP.NET Core および OWIN/Katana 安値 level/プロトコル最初 OpenID Connect server フレームワーク |
-| [IdentityServer4](https://identityserver.io/) | ASP.NET Core - .NET Foundation の管理下にあると、OpenID Foundation によって正式に認定を受けたの OpenID Connect および OAuth 2.0 framework |
+| [IdentityServer4](https://identityserver.io/) | ASP.NET Core の OpenID Connect および OAuth 2.0 framework - OpenID Foundation によって正式に認定されているとともに .NET Foundation によって管理されています |
 | [OpenIddict](https://github.com/openiddict/openiddict-core) | ASP.NET Core の使いやすい OpenID Connect サーバー  |
 | [Cierge](https://github.com/pwdless/Cierge) | Passwordless、ドロップイン OpenID Connect の認証   |
 
-ここで追加のプロバイダーを取得する[このページの編集](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Faspnet%2FDocs%2Fedit%2Fmaster%2Faspnetcore%2Fsecurity%2Fauthentication%2Fcommunity.md)です。
+ここに新しいプロバイダーを追加するためには [このページの編集](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Faspnet%2FDocs%2Fedit%2Fmaster%2Faspnetcore%2Fsecurity%2Fauthentication%2Fcommunity.md) から追加してください。
