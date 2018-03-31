@@ -64,7 +64,7 @@ CORS ミドルウェアを追加するときに`CorsPolicyBuilder`クラスを�
 
 **注:**URL は末尾にスラッシュを付けずに指定される必要があります (`/`)。 URL が `/`で終了する場合、比較時に`false`が返され、ヘッダーが返されません。
 
-ラムダは、`CorsPolicyBuilder`オブジェクト。 リストができたら、[構成オプション](#cors-policy-options)このトピックで後述します。 この例では、ポリシーによりからのクロス オリジン要求`http://example.com`しない他のオリジンです。
+ラムダは、`CorsPolicyBuilder` オブジェクトをとります。 [CORS ポリシーのオプション](#cors-policy-options)のリストはこのトピックで後述します。 この例では、ポリシーは `http://example.com` からのクロス オリジン要求を許可し、他の生成元からの要求は許可しません。
 
 CorsPolicyBuilder いる fluent API では、メソッド呼び出しを連結することができますので注意してください。
 
